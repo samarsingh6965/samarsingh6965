@@ -43,7 +43,7 @@
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/samarsingh6965)   -->
 
-<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+##<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 <a href="https://www.linkedin.com/in/samarsingh6965/" >
  <img align="center" src="https://raw.githubusercontent.com/samarsingh6965/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
 <a href="https://www.instagram.com/the_abhirock74/"><img align="center" src="https://raw.githubusercontent.com/samarsingh6965/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
