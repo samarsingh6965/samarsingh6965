@@ -2,7 +2,7 @@
  ![](https://komarev.com/ghpvc/?username=samarsingh6965&color=blue)
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Samar+Raj!;Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/css-%23430098.svg?style=for-the-badge&logo=CSS3&logoColor=%ffffff)
