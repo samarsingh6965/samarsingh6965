@@ -1,5 +1,5 @@
  <!-- ![Profile views](https://gpvc.arturio.dev/samarsingh6965) -->
- ![](https://komarev.com/ghpvc/?username=samarsingh6965&color=red)
+ ![](https://komarev.com/ghpvc/?username=samarsingh6965&color=blue)
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Samar+Raj!;Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
 
