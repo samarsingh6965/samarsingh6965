@@ -22,6 +22,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Vs Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23007ACC)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![Frappe](https://img.shields.io/badge/Frappe-%23121011.svg?style=for-the-badge&logo=frappe&logoColor=%E5E5E5)
 
 - 🔭 I’m currently working on Suvaidyam 
