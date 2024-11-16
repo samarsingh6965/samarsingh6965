@@ -18,11 +18,9 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
 ![Frappe](https://img.shields.io/badge/Frappe-%23121011.svg?style=for-the-badge&logo=frappe&logoColor=%E5E5E5)
 
-- 🔭 I’m currently working on Suvaidyam 
-- 🌱 I’m currently learning Full Stack MEAN Developer 
-- 👯 I’m looking to collaborate on Learning based Projects 
-- 💬 Ask me about Full Stack Developer 
-- 📫 How to reach me: Gmail:- samar.singh@suvaidyam.com 
+- 🔭 I’m currently working in Suvaidyam  
+- 💬 Ask me about Frappe Framework 
+- 📫 How to reach me: Gmail:- sr9934794492@gmail.com 
 - ⚡ Fun fact: It’s all 0’s and 1’s 
 
 # 📊 GitHub Stats:
